@@ -1,0 +1,16 @@
+# ninja log v5
+172	234	6404282157580105	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/driverleds.pbi	6dc25b0473ce176b
+7	162	6404282150000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/rtx_lib.xcl	34742c52295aa950
+160	280	6404282150000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas.xcl	6b58ae5671be4a48
+2	42	6404429940890446	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas.pbi	f6544458cec650ba
+4	139	6404282150000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/RTX_Config.xcl	bf3a9252b06013ae
+60	100	6404429941488836	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas_lab05.pbd	7c27ac3ba70b139
+106	617	6404429946440624	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas_lab05.pbw	ad58d9eb4f5c0767
+149	228	6404282157560146	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/RTX_Config.pbi	3ec3588eade1c94a
+10	174	6404282150000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/system_TM4C1294_TW.xcl	9386bddc5711b56
+232	314	6404282158427830	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/rtx_lib.pbi	b44007ddb7821f31
+182	303	6404282158308156	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/system_TM4C1294_TW.pbi	fffb4e538f678559
+46	55	6404429941040278	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas_lab05_part2.pbi	23793584c856c6a9
+318	358	6404282158876630	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas_lab05_part1.pbi	88c0c718edfca6eb
+1	151	6404282150000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/driverleds.xcl	735358bf3b7bd2c6
+236	264	6404282157939135	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/tarefas_lab05/Debug/BrowseInfo/tarefas_lab05_part0.pbi	aef87cf6c7429e56

@@ -1,0 +1,20 @@
+# ninja log v5
+192	254	6404435677408817	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.pbi	fa43c99ab88bfc85
+1	142	6404435670000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.xcl	27148d62f7222032
+4	160	6404435670000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.xcl	117e63e4aaf754ae
+7	172	6404435670000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.xcl	935c768b197e51ef
+9	183	6404435670000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.xcl	ba76c1d77a2dbe7a
+170	282	6404435670000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.xcl	c94f10fc4cf7b2f7
+2	79	6404473172601969	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	e617f040c67bb00
+395	418	6404435679057172	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part1.pbi	b1ed3f253a16a667
+181	346	6404435678319106	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.pbi	5819ef64e1a61575
+83	99	6404473172822863	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	223eee2fd04dc708
+258	386	6404435678718042	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.pbi	2d6cb16beeafb69c
+292	391	6404435678737989	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.pbi	e3b04d4eb9dae9d8
+390	423	6404435679077120	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part2.pbi	bf75d46a9cb7bb30
+104	141	6404473173241730	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	e889e7703151ffb8
+146	662	6404473178241219	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	51d11517650eed93
+3	91	6404473382006141	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	e617f040c67bb00
+95	111	6404473382225783	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	223eee2fd04dc708
+115	154	6404473382654669	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	e889e7703151ffb8
+160	709	6404473387907144	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	51d11517650eed93

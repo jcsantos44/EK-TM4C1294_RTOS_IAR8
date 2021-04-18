@@ -22,6 +22,9 @@
         <path>$WS_DIR$\Projects\tarefas\tarefas.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\Projects\tarefas_lab05\tarefas_lab05.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\Projects\temporizador\temporizador.ewp</path>
     </project>
     <batchBuild />

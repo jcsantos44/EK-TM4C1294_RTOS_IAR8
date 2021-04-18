@@ -1,0 +1,16 @@
+# ninja log v5
+9	150	6404273300000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/driverleds.xcl	16b94e3d239e638a
+18	161	6404273300000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/system_TM4C1294_TW.xcl	ec62c4e96b3d0d20
+2	176	6404273300000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/rtx_lib.xcl	61ee39d8af342891
+13	187	6404273300000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/RTX_Config.xcl	8c5af9d7caef69aa
+171	247	6404273308120088	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/driverleds.pbi	497c6ca552b4a0f6
+196	276	6404273308419287	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/RTX_Config.pbi	a20ef87f195a67c8
+185	281	6404273308439241	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/rtx_lib.pbi	edff7dddd5ad149
+159	287	6404273300000000	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador.xcl	f68f6ec48895a865
+279	304	6404273308708513	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador_part0.pbi	40c6d4d7c09fe24d
+296	341	6404273309077528	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador.pbi	6915e38f79cb87ac
+344	362	6404273309306907	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador_part1.pbi	d728439fb4efd37f
+250	428	6404273309945204	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/system_TM4C1294_TW.pbi	f32b81167d0bcd00
+431	456	6404273310244404	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador_part2.pbi	4f345468e0246b7a
+459	498	6404273310663281	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador.pbd	b1b316811c39d8ae
+503	1039	6404273315774703	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/sinalizador/Debug/BrowseInfo/sinalizador.pbw	c0110cf453618c15

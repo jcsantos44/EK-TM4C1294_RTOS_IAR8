@@ -1,0 +1,9 @@
+# ninja log v5
+3	29	6404284936656581	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/startup_TM4C1294.o	e0a0456857ce2a89
+9	191	6404284938202453	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/RTX_Config.o	f7cfbd4135016a53
+0	214	6404284938401927	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/blinky.o	f32fbf68644898eb
+33	272	6404284939000316	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/system_TM4C1294_TW.o	d0269eaeba78dbb1
+6	290	6404284939149915	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/driverleds.o	ce9d3c8bf79525e1
+200	307	6404284939279561	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/rtx_lib.o	a44c4801fb588bf6
+316	413	6404284940416516	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Exe/blinky.out	ba7191632ca5ed2b
+425	432	6404284940686320	C:/Code/EmbeddedSystems/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Exe/blinky.bin	329fe747d0efbb68
